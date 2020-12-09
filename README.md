@@ -12,7 +12,7 @@ Once installed, make sure that Jupyter notebook or Jupyter-lab is installed. If 
 
 Finally, download the notebook from this repository.
 
-    git clone https://github.com/nbosc/chembl_query
+    git clone https://github.com/nbosc/chembl_data_extraction
     
 Quick start
 ---
