@@ -2,6 +2,6 @@ name: chembl_data
 channels:
   - conda-forge
 dependencies:
-  - ipywidgets=7.7.0
-  - pandas=1.4.1
-  - rdkit=2021.03.5
+  - ipywidgets==7.7.0
+  - pandas==1.4.1
+  - rdkit==2021.03.5
