@@ -3,5 +3,5 @@ channels:
   - conda-forge
 dependencies:
   - ipywidgets==7.7.0
-  - pandas==1.4.1
+  - pandas
   - rdkit==2021.03.5
