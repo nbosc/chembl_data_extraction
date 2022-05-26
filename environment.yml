@@ -5,5 +5,3 @@ dependencies:
   - ipywidgets=7.7.0
   - pandas=1.4.1
   - rdkit=2021.03.5
-  - pip:
-    - chembl-webresource-client==0.10.8
