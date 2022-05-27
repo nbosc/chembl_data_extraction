@@ -24,3 +24,7 @@ or
     jupyter notebook
     
 Then navigate to the chembl_query notebook and follow the instructions.
+
+Binder
+---
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nbosc/chembl_data_extraction/HEAD?labpath=chembl_data_extraction.ipynb)
