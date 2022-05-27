@@ -25,6 +25,10 @@ or
     
 Then navigate to the chembl_query notebook and follow the instructions.
 
-Binder
+Binder and Google Colab
 ---
+Alternatively you can also run the not interactive version of the notebook in Binder and Google Colab. It means you to click on every cell to run them
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nbosc/chembl_data_extraction/HEAD?labpath=chembl_data_extraction.ipynb)
+
+https://colab.research.google.com/drive/1U1PuKDdUzGxRLn6-wShFeHwrB0QbZXD5?usp=sharing
