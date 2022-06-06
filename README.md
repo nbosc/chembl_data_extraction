@@ -31,4 +31,4 @@ Alternatively you can also run the not interactive version of the notebook in Bi
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nbosc/chembl_data_extraction/HEAD?labpath=chembl_data_extraction_not_interactive.ipynb)
 
-https://colab.research.google.com/drive/1U1PuKDdUzGxRLn6-wShFeHwrB0QbZXD5?usp=sharing
+[Google colab](https://colab.research.google.com/drive/1izznXeiiU_n-ExJvhAoWQj4305sc9A-w?usp=sharing)
