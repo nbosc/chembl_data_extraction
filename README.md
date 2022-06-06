@@ -29,6 +29,6 @@ Binder and Google Colab
 ---
 Alternatively you can also run this notebook in Binder and Google Colab.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nbosc/chembl_data_extraction/HEAD?labpath=chembl_data_extraction_not_interactive.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nbosc/chembl_data_extraction/HEAD?labpath=chembl_data_extraction.ipynb)
 
 [Google colab](https://colab.research.google.com/drive/1izznXeiiU_n-ExJvhAoWQj4305sc9A-w?usp=sharing)
