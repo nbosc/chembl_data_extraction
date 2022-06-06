@@ -1,4 +1,4 @@
-chembl_data_extraction (and the similar chembl_data_extraction_full_interactive but adding some convenient JavaScript interactions) is a short Jupyter notebook illustrating how easy it is to use the ChEMBL Python client library to extract data from the database for instance for modelling support.
+chembl_data_extraction (and the identiacal chembl_data_extraction_full_interactive adding some convenient JavaScript interactions) is a short Jupyter notebook illustrating how easy it is to use the ChEMBL Python client library to extract data from the database for instance for modelling support.
 
 
 Installation
